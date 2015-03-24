@@ -1,0 +1,4 @@
+c:\users\dterryable\documents\visual studio 2013\Projects\AppeveliEmailTask\AppeveliEmailTask\Bin\Release\AppeveliEmailTask.dll
+c:\users\dterryable\documents\visual studio 2013\Projects\AppeveliEmailTask\AppeveliEmailTask\Bin\Release\AppeveliEmailTask.pdb
+c:\users\dterryable\documents\visual studio 2013\Projects\AppeveliEmailTask\AppeveliEmailTask\obj\Release\AppeveliEmailTask.dll
+c:\users\dterryable\documents\visual studio 2013\Projects\AppeveliEmailTask\AppeveliEmailTask\obj\Release\AppeveliEmailTask.pdb
